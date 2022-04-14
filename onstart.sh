@@ -1,1 +1,1 @@
-echo "Onstart script successfully executed"
+echo "Onstart script successfully executed, this is another test"
